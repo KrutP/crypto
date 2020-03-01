@@ -1,0 +1,4 @@
+Kivy==1.11.1
+beautifulsoup4==4.8.2
+idna==2.8
+requests==2.22.0
